@@ -21,3 +21,6 @@ Notes:
 2. You must be logged into Jira in order for the script to work correctly
 3. You must be on a sprint reports page - select the sprint for which you want metrics
 4. Click on the button 'Get Metrics' in upper right corner to kick off the process
+
+## Contributions
+I am open to improvements/enhancements via pull requests. My main ask will be that contributions favor human readability and simplicity over terse/complex code.
