@@ -13,7 +13,7 @@ TamperMonkey scripts to help improve productivity
 ## Scripts
 
 ### [Jira](/jira)
-#### [Enhanced Jira Sprint Report Metrics](/jira/enhanced-jira-sprint-report-metrics)
+#### [Enhanced Jira Sprint Report Metrics](/jira/enhanced-jira-sprint-report-metrics.js)
 Description: Show more details about tickets in a sprint report
 
 Notes:
